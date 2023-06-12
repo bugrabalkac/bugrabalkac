@@ -1,7 +1,7 @@
 ### Hi there, It's Buğra 👋
 
 
-**I am Lead Data Scientist  @PwC**
+**I am Lead Data Scientist  @PwC Turkey Advanced Analytics Department.**
 
 
 
