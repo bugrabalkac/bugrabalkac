@@ -6,8 +6,6 @@
 - Developed and led many successful projects that delivered business value and improved processes.
 - Leading 3-5 people teams and mentored junior data scientists and created training programs.
 
-If you are looking for a data science leader who can deliver impactful solutions, please feel free to reach out to me.
-
 ## 💼 My Experiences
 
 - 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey]([https://www.pwc.com.tr/](https://www.pwc.com.tr/tr.html)) (2019-Now)
@@ -16,6 +14,8 @@ If you are looking for a data science leader who can deliver impactful solutions
 - 💼 Data Scientist/Data Modeling Specialist [@Migros](https://www.migros.com.tr)(2014-2015)
 - 💼 Project Manager [@Migros](https://www.migros.com.tr)(2011-2013)
 
+
+#### If you are looking for a data science leader who can deliver impactful solutions, please feel free to reach out to me.
 
 [![](https://img.shields.io/twitter/follow/bugrabalkac?style=social)](https://www.twitter.com/bugrabalkac)
 [![](https://img.shields.io/github/followers/bugrabalkac?style=social)](https://www.github.com/bugrabalkac)
