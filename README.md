@@ -8,11 +8,11 @@
 
 ## 💼 My Experiences
 
-- 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey]([https://www.pwc.com.tr/](https://www.pwc.com.tr/tr.html)) (2019-Now)
+- 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey](https://www.pwc.com.tr/tr.html) (2019-Now)
 - 💼 Senior Data Scientist [@Yapı Kredi Bank](https://www.yapikredi.com.tr/) (2017-2019)
 - 💼 Statistical Model Developer/Data Scientist[@Bank Pozitif](https://www.bankpozitif.com.tr) (2015-2017)
-- 💼 Data Scientist/Data Modeling Specialist [@Migros](https://www.migros.com.tr)(2014-2015)
-- 💼 Project Manager [@Migros](https://www.migros.com.tr)(2011-2013)
+- 💼 Data Scientist/Data Modeling Specialist [@Migros](https://www.migros.com.tr) (2014-2015)
+- 💼 Project Manager [@Migros](https://www.migros.com.tr) (2011-2013)
 
 
 #### If you are looking for a data science leader who can deliver impactful solutions, please feel free to reach out to me.
