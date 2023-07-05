@@ -1,9 +1,20 @@
 ### Hi there, It's Buğra 👋
 
+➤ I am Lead Data Scientist with over 13 years of experience in various industries, such as banking, retail, supply chain and production.
+➤ More than 10 years hands-on coding experience in Python and R mostly in data analytics libraries ( pandas, scikit-learn,xgboost,tidyverse, shiny etc.)
+➤ Skilled in data analysis, interpretation, data visualization skills and ability to communicate data insights with different stakeholders.
+➤ Developed and led many successful projects that delivered business value and improved processes.
+➤ Leading 3-5 people teams and mentored junior data scientists and created training programs.
 
-**I am Lead Data Scientist  @PwC Turkey Advanced Analytics Department.**
+If you are looking for a data science leader who can deliver impactful solutions, please feel free to reach out to me.
 
+## 💼 My Experiences
 
+- 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey]([https://www.pwc.com.tr/](https://www.pwc.com.tr/tr.html)) (2019-Now)
+- 💼 Senior Data Scientist [@Yapı Kredi Bank](https://www.yapikredi.com.tr/) (2017-2019)
+- 💼 Statistical Model Developer/Data Scientist[@Bank Pozitif](https://www.bankpozitif.com.tr) (2015-2017)
+- 💼 Data Scientist/Data Modeling Specialist [@Migros](https://www.migros.com.tr)(2014-2015)
+- 💼 Project Manager [@Migros](https://www.migros.com.tr)(2011-2013)
 
 
 [![](https://img.shields.io/twitter/follow/bugrabalkac?style=social)](https://www.twitter.com/bugrabalkac)
