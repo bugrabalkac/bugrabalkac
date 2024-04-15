@@ -7,8 +7,8 @@
 - Leading 3-5 people teams and mentored junior data scientists and created training programs.
 
 ## 💼 My Experiences
-
-- 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey](https://www.pwc.com.tr/tr.html) (2019-Now)
+- 💼 Lead Data Scientist  [@Trendyol](https://www.trendyol.com) (2024-Now)
+- 💼 Senior Manager - Lead Data Scientist  [@PwC Turkey](https://www.pwc.com.tr/tr.html) (2019-2024)
 - 💼 Senior Data Scientist [@Yapı Kredi Bank](https://www.yapikredi.com.tr/) (2017-2019)
 - 💼 Statistical Model Developer/Data Scientist[@Bank Pozitif](https://www.bankpozitif.com.tr) (2015-2017)
 - 💼 Data Scientist/Data Modeling Specialist [@Migros](https://www.migros.com.tr) (2014-2015)
